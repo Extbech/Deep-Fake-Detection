@@ -13,7 +13,7 @@ def build_3D_model(input_data):
     model.add(layers.MaxPool3D(pool_size=2, padding="same"))
     model.add(layers.Flatten())
     model.add(layers.Dense(128, activation="relu"))
-    model.add(layers.Dense(2))
+    model.add(layers.Dense(1))
     return model
 
 def compile_3D_model(model, lr):
