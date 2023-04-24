@@ -3,6 +3,7 @@
 - Dataset:
 
   - The dataset can be found and downloaded from: https://www.kaggle.com/competitions/deepfake-detection-challenge/data
+  - The code expects it to be put under a folder called /data
 
 - Project rules:
 
