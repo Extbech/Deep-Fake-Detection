@@ -5,6 +5,11 @@
   - The dataset can be found and downloaded from: https://www.kaggle.com/competitions/deepfake-detection-challenge/data
   - The code expects it to be put under a folder called /data
 
+- How to run:
+  - Download the data and placed it under a /data folder
+  - Do "pip install -r reqs.txt" to download the needed packages
+  - Run the notebook
+
 - Project rules:
 
   - The project accounts the 40 % of your grade (working code + written report + presentation).
