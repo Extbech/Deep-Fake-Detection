@@ -11,7 +11,6 @@
   - You will get a grade based on the novelty, quality and complexity of the project, along with the ability to show use of appropriate models, preprocessing techniques and evaluation strategies.
   - The projects are done in groups of 2-4.
 
-- Please see project guidelines.
 
 - These are the list of projects suggested but you are free to choose your own topic as well:
   - Deep fake detection challenge
